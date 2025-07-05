@@ -1,2 +1,2 @@
 # EV-Predictive-Maintenance-Failure-Risk(RUL-TTF)With-Health-Score-Segmentation
-This project applies Machine Learning Algorithms to predict failure risk and maintenance types,and uses Deep Learning Algorithm to predict the Remaining Useful Life(RUL) and Time to Failure(TTF) of EV Car.I worked with a large dataset and experimented with various models to identify the best-performing ones, achieving high-accuracy.
+This project applies Machine Learning Algorithms to predict failure risk and maintenance types,and uses Deep Learning Algorithm to predict the Remaining Useful Life(RUL) and Time to Failure(TTF) of EV Car. I worked with a large dataset and experimented with various models to identify the best-performing ones, achieving high-accuracy.
