@@ -1,2 +1,2 @@
-# EV-Predictive-Maintenance-Failure-Risk-RUL-TTF-With-Health-Score-Segmentation
-This project applies ML and DL to predict failure risk, maintenance types, and RUL for electric vehicles. Leveraging my mechanical design background in industrial vehicles, it showcases a complete data science workflow tailored for real-world predictive maintenance in the automotive domain.
+# EV-Predictive-Maintenance-Failure-Risk(RUL-TTF)With-Health-Score-Segmentation
+This project applies Machine Learning Algorithms to predict failure risk and maintenance types,and uses Deep Learning Algorithm to predict the Remaining Useful Life(RUL) and Time to Failure(TTF) of EV Car.I worked with a large dataset and experimented with various models to identify the best-performing ones, achieving high-accuracy.
